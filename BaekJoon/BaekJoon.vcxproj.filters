@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2090.골든바흐의 추측 시간초과.c">
+    <ClCompile Include="2090.골든바흐의 추측.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
